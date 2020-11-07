@@ -1,0 +1,82 @@
+body{
+    font-family: monospace;
+    margin: 0 10%;
+}
+
+.container{
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 15px auto;
+}
+
+.caja-colores{
+    width: 100%;
+}
+
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.cool-blue{
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.pink{
+    background-color: #d957d9;
+}
+
+.mint-green{
+    background-color: #4fe0b0;
+}
+
+.beige{
+    background-color: #efd9ca;
+}
+
+.red{
+    background-color: #ff0000;
+}
+
+.black{
+    background-color: #000000;
+    color: gray;
+}
+
+.font-panel{
+    width: 45%;
+    display: inline-block;
+}
+
+.font-title{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular-text{
+    font-style: normal;
+}
+
+.bold-text{
+    font-weight: 700;
+}
+
+.italic-text{
+    font-style: italic;
+}
+
+.source-code-pro{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.nunito-sans{
+    font-family: 'Nunito Sans', monospace;
+}
+
+.poppins{
+    font-family: 'Poppins', monospace;
+}
